@@ -1,5 +1,5 @@
 # Blocked Billboard
-My solution fails on test case 3 and 10, no idea why.
+~~My solution fails on test case 3 and 10, no idea why.~~
 
 usaco.guide solution is a lot better
 Notes:
