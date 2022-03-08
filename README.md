@@ -8,3 +8,6 @@ Started: 2022-02-11
 | USACO  | 783  | Blocked Billboard II |   2022-02-13   | 09/10 |
 | USACO  | 891  | Shell Game           |   2022-02-16   | 10/10 |
 | USACO  | 855  | Mixing Milk          |   2022-02-18   | 10/10 |
+| USACO  | 665  | Cow Signal           |   2022-02-18   | 10/10 |
+| USACO  | 568  | Speeding Ticket      |   2022-03-07   | 10/10 |
+| USACO  | 664  | Block Game           |   2022-03-08   | 10/10 |
